@@ -26,8 +26,7 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots of the UI here if available_
-
+![alt text](image.png)
 ---
 
 ## 🚀 Getting Started
