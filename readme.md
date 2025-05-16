@@ -7,8 +7,7 @@
 ## 🔥 Features
 
 - 🔍 Search weather by city name  
-- 📍 Current temperature, humidity, wind speed, and weather condition  
-- 📅 5-day weather forecast  
+- 📍 Current temperature, humidity, wind speed, and weather condition
 - 🎨 Stylish UI with blur effects and gradient backgrounds  
 - 💬 Toast notification for errors or invalid inputs  
 - 📱 Responsive design for mobile and tablet screens  
